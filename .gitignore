@@ -5,3 +5,9 @@ __pycache__/
 
 # Pipenv
 Pipfile.lock
+
+# PostgreSQL database files
+*.psql
+
+# Django migrations
+**/migrations/
